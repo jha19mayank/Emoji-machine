@@ -1,2 +1,2 @@
-# Emoji-machine
+# EmojiMachine
 Created with CodeSandbox
